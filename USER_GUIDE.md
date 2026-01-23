@@ -14,11 +14,15 @@
 1. Перейдите на страницу расширения в [**Chrome Web Store**](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi)
 2. Нажмите кнопку **«Установить»** (Add to Chrome).
 3. Подтвердите установку во всплывающем окне.
+<img width="1171" height="730" alt="image" src="https://github.com/user-attachments/assets/1582a057-7cc2-454d-9994-673580f5028f" />
+
 
 #### Mozilla Firefox
 1. Перейдите в магазин [**Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/)
 2. Нажмите **«Добавить в Firefox»**.
 3. Подтвердите разрешение на установку.
+<img width="1308" height="605" alt="image" src="https://github.com/user-attachments/assets/766cad84-a044-49be-b64d-f3b6f5cc31bd" />
+
 
 ### 📱 2. Для Android (Мобильная версия)
 
@@ -109,5 +113,6 @@
 
 ---
 **Разработано и поддерживается [Abkhaz DNA Project](https://t.me/abkhazdna).**
+
 
 
