@@ -1,6 +1,6 @@
 # 🧬 YFull Finder (Ajwla) — User Guide
 
-> **Version:** 1.1.5 | **Updated:** January 23, 2026  
+> **Version:** 2.0.6 | **Updated:** February 14, 2026  
 > **Project:** [Abkhaz DNA Project](https://t.me/abkhazdna)
 
 **YFull Finder (Ajwla)** is a browser extension that enriches the scientific tree of [YFull.com](https://www.yfull.com) with genealogical data. It transforms dry sample IDs into living history by adding surnames, tribes, and ethnic flags directly to the site's interface.
@@ -108,21 +108,26 @@ To keep the icon always at hand:
 5. Enter your username, email, and password.
 
 > [!TIP]
+> **New in v2.0.6:** You can now upload a custom avatar! Click on the generic user icon in the dashboard to upload and crop your photo.
 > Authorization allows you not only to view but also to add data that will be linked to your profile.
 ---
 
 ### Step 2: Personalization (Themes and Language)
 
-In the extension menu, you can customize the interface:
+In the extension popup (click the icon in your browser toolbar), you can customize the interface:
 
 *   **🌐 Language:** Click on the flag icon to choose:
     - **English**
-    - **Русский** (Russian)
-    - **Аҧсшәа** (Abkhazian)
+    - **Russian**
+    - **Abkhazian**
+    - **Spanish**
 
 *   **🎨 Theme:**
     - **Lite:** Compact list with minimal spacing. Ideal for analyzing large trees and preserving YFull data density.
     - **Premium:** Modern glassmorphism design (frosted glass effect) with large fonts and animations.
+
+> [!NOTE]
+> The theme toggle is available in the extension popup only when you are **logged in**.
 
    <img width="347" height="393" alt="Theme selection in extension" src="https://github.com/user-attachments/assets/996470a1-3647-4628-a730-f356bea2db14" />
 
@@ -188,8 +193,45 @@ Manage your contributions through the web portal [**yfinder.vercel.app**](https:
 <img width="1257" height="763" alt="User dashboard with sample table" src="https://github.com/user-attachments/assets/b0df97c6-4945-47c1-89b5-92b4a0a3157b" />
 
 *   **✏️ Editing:** Found an error? Click the **Pencil** icon in your samples list to instantly correct the data.
+*   **📂 My Requests:** Track the status of your contributions:
+    - **Pending:** Waiting for moderator approval.
+    - **Approved:** Successfully added to the database.
+    - **Rejected:** Returned for correction (see admin comments for reason).
 
-<img width="611" height="167" alt="Sample edit button in table" src="https://github.com/user-attachments/assets/818dd16e-a692-403f-9130-c5a5f4f19cb8" />
+<img width="1258" height="463" alt="image" src="https://github.com/user-attachments/assets/46d264a7-8db2-47e5-908a-5b2ad14538df" />
+
+
+### 5. Leaderboard (Top Contributors) 🏆
+
+The Leaderboard is a ranking system that recognizes our most active volunteers. It displays users who have contributed the most samples to the database.
+
+*   **Where to find it:** Open the **Rating** tab in the web portal.
+*   **Filtering:** You can filter the ranking by:
+    - **DNA Type:** Y-DNA, mtDNA, or All.
+    - **Time Period:** 7 days, 30 days, or All time.
+*   **Your Rank:** The system automatically highlights your position, even if you aren't in the top 10 yet.
+
+<img width="1265" height="642" alt="image" src="https://github.com/user-attachments/assets/f8c1908a-b8ac-4bfd-81b6-32175108ce96" />
+
+### 6. Smart Screenshots 📸
+
+Create high-quality, shareable images of the YFull tree with one click.
+
+**Method 1: Floating Button**
+1.  Look for the **Camera Icon** 📷 in the bottom-right corner of any YFull tree page.
+2.  Click it to open the screenshot tool.
+
+**Method 2: Extension Popup**
+1.  Click the extension icon in your browser toolbar.
+2.  Select **"Screenshot"** from the menu.
+
+**Features:**
+*   **High Quality:** Captures the tree at higher resolution than a standard screen grab.
+*   **Clean:** Automatically hides unnecessary UI elements.
+*   **Cropping:** You can select exactly which part of the tree to capture.
+
+<img width="369" height="444" alt="image" src="https://github.com/user-attachments/assets/18fece3e-9ff3-4c60-995d-26e1e07e06b4" />
+
 
 ---
 
@@ -281,5 +323,5 @@ The database works on a **Wiki** principle — it's a collective project. The ex
 
 ---
 
-**Developed and maintained by [Abkhaz DNA Project](https://t.me/abkhazdna).**  
-**Document Version:** 1.1.5 | **Update Date:** 01.23.2026
+**Maintained by the Abkhaz DNA project.**  
+**Version:** 2.0.6 | **Updated:** 14.02.2026
