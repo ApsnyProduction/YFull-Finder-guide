@@ -1,6 +1,6 @@
 # 🧬 YFull Finder (Ajwla) — Guía del Usuario
 
-> **Versión:** 1.1.5 | **Actualizado:** 23 de enero de 2026  
+> **Versión:** 2.0.6 | **Actualizado:** 14 de febrero de 2026  
 > **Proyecto:** [Abkhaz DNA Project](https://t.me/abkhazdna)
 
 **YFull Finder (Ajwla)** es una extensión de navegador que enriquece el árbol científico de [YFull.com](https://www.yfull.com) con datos genealógicos. Transforma IDs de muestras en historia viva, añadiendo apellidos, tribus y banderas étnicas directamente a la interfaz del sitio.
@@ -108,21 +108,26 @@ Para mantener el icono siempre a mano:
 5. Ingrese su nombre de usuario, correo electrónico y contraseña.
 
 > [!TIP]
+> **Nuevo en v2.0.6:** ¡Ahora puede cargar un avatar personalizado! Haga clic en el icono de usuario genérico en el panel para cargar y recortar su foto.
 > La autorización le permite no solo ver sino también agregar datos que se vincularán a su perfil.
 ---
 
 ### Paso 2: Personalización (Temas e Idioma)
 
-En el menú de la extensión, puede personalizar la interfaz:
+En la ventana emergente de la extensión (haga clic en el icono en su navegador), puede personalizar la interfaz:
 
 *   **🌐 Idioma:** Haga clic en el icono de la bandera para elegir:
     - **English** (Inglés)
     - **Русский** (Ruso)
     - **Аҧсшәа** (Abjasio)
+    - **Español**
 
 *   **🎨 Tema:**
     - **Lite:** Lista compacta con espaciado mínimo. Ideal para analizar árboles grandes y preservar la densidad de datos de YFull.
     - **Premium:** Diseño moderno con efecto glassmorphism (vidrio esmerilado) con fuentes grandes y animaciones.
+
+> [!NOTE]
+> El cambio de tema está disponible en la ventana emergente de la extensión solo cuando ha **iniciado sesión**.
 
    <img width="347" height="393" alt="Selección de tema en la extensión" src="https://github.com/user-attachments/assets/996470a1-3647-4628-a730-f356bea2db14" />
 
@@ -185,11 +190,47 @@ Administre sus contribuciones a través del portal web [**yfinder.vercel.app**](
 *   **📊 Dashboard:** Estadísticas de sus adiciones.
 *   **📝 My Samples:** Lista de todas las muestras que ha agregado con búsqueda rápida y filtrado.
 
-<img width="1257" height="763" alt="Panel de usuario con tabla de muestras" src="https://github.com/user-attachments/assets/b0df97c6-4945-47c1-89b5-92b4a0a3157b" />
+<img width="1257" height="763" alt="Panel de usuario con tabla de muestras" src="https://github.com/user-attachments/assets/b0df97c6-4945-47c1-9d5f-68d85fdfd36a" />
 
 *   **✏️ Edición:** ¿Encontró un error? Haga clic en el icono de **Lápiz** en su lista de muestras para corregir los datos instantáneamente.
+*   **📂 Mis Solicitudes (My Requests):** Rastree el estado de sus contribuciones:
+    - **Pendiente (Pending):** Esperando aprobación del moderador.
+    - **Aprobado (Approved):** Agregado exitosamente a la base de datos.
+    - **Rechazado (Rejected):** Devuelto para corrección (ver comentarios del administrador).
 
-<img width="611" height="167" alt="Botón de edición de muestra en la tabla" src="https://github.com/user-attachments/assets/818dd16e-a692-403f-9130-c5a5f4f19cb8" />
+<img width="1258" height="463" alt="image" src="https://github.com/user-attachments/assets/46d264a7-8db2-47e5-908a-5b2ad14538df" />
+
+### 5. Tabla de Clasificación (Leaderboard) 🏆
+
+La Tabla de Clasificación es un sistema de reconocimiento que destaca a nuestros voluntarios más activos. Muestra a los usuarios que han aportado más muestras a la base de datos.
+
+*   **Dónde encontrarla:** Abra la pestaña **Rating** (Clasificación) en el portal web.
+*   **Filtrado:** Puede filtrar la clasificación por:
+    - **Tipo de ADN:** Y-DNA, mtDNA o Todos.
+    - **Periodo de Tiempo:** 7 días, 30 días o Todo el tiempo.
+*   **Su Rango:** El sistema resalta automáticamente su posición, incluso si aún no está entre los 10 primeros.
+
+<img width="1265" height="642" alt="image" src="https://github.com/user-attachments/assets/f8c1908a-b8ac-4bfd-81b6-32175108ce96" />
+
+### 6. Capturas de Pantalla Inteligentes 📸
+
+Cree imágenes de alta calidad y compartibles del árbol YFull con un solo clic.
+
+**Método 1: Botón Flotante**
+1.  Busque el **Icono de Cámara** 📷 en la esquina inferior derecha de cualquier página del árbol YFull.
+2.  Haga clic para abrir la herramienta de captura de pantalla.
+
+**Método 2: Ventana Emergente de la Extensión**
+1.  Haga clic en el icono de la extensión en la barra de herramientas de su navegador.
+2.  Seleccione **"Screenshot"** (Captura de pantalla) en el menú.
+
+**Características:**
+*   **Alta Calidad:** Captura el árbol con mayor resolución que una captura de pantalla estándar.
+*   **Limpio:** Oculta automáticamente los elementos innecesarios de la interfaz.
+*   **Recorte:** Puede seleccionar exactamente qué parte del árbol desea capturar.
+
+<img width="369" height="444" alt="image" src="https://github.com/user-attachments/assets/18fece3e-9ff3-4c60-995d-26e1e07e06b4" />
+
 
 ---
 
@@ -281,5 +322,5 @@ La base de datos funciona según el principio de **Wiki** — es un proyecto col
 
 ---
 
-**Desarrollado y mantenido por [Abkhaz DNA Project](https://t.me/abkhazdna).**  
-**Versión del Documento:** 1.1.5 | **Fecha de Actualización:** 23.01.2026
+**Mantenido por el proyecto Abkhaz DNA.**  
+**Versión:** 2.0.6 | **Actualizado:** 14.02.2026
