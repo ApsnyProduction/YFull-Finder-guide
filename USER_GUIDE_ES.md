@@ -190,7 +190,7 @@ Administre sus contribuciones a través del portal web [**yfinder.vercel.app**](
 *   **📊 Dashboard:** Estadísticas de sus adiciones.
 *   **📝 My Samples:** Lista de todas las muestras que ha agregado con búsqueda rápida y filtrado.
 
-<img width="1257" height="763" alt="Panel de usuario con tabla de muestras" src="https://github.com/user-attachments/assets/b0df97c6-4945-47c1-9d5f-68d85fdfd36a" />
+<img width="1254" height="774" alt="изображение" src="https://github.com/user-attachments/assets/f106622d-bb05-4f1a-9c97-bba1dec77806" />
 
 *   **✏️ Edición:** ¿Encontró un error? Haga clic en el icono de **Lápiz** en su lista de muestras para corregir los datos instantáneamente.
 *   **📂 Mis Solicitudes (My Requests):** Rastree el estado de sus contribuciones:
