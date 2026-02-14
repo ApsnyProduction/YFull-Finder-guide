@@ -190,7 +190,7 @@ Manage your contributions through the web portal [**yfinder.vercel.app**](https:
 *   **📊 Dashboard:** Statistics of your additions.
 *   **📝 My Samples:** List of all samples you've added with quick search and filtering.
 
-<img width="1257" height="763" alt="User dashboard with sample table" src="https://github.com/user-attachments/assets/b0df97c6-4945-47c1-89b5-92b4a0a3157b" />
+<img width="1254" height="774" alt="изображение" src="https://github.com/user-attachments/assets/f106622d-bb05-4f1a-9c97-bba1dec77806" />
 
 *   **✏️ Editing:** Found an error? Click the **Pencil** icon in your samples list to instantly correct the data.
 *   **📂 My Requests:** Track the status of your contributions:
