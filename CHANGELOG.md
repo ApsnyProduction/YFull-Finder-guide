@@ -1,5 +1,12 @@
 # YFull Finder (Ajwla) — Release Notes
-This file tracks all changes, improvements, and fixes for the YFull Finder browser extension. Use the content under each version for the "What's New" section in the Chrome Web Store and Firefox Add-ons dashboard.
+This file tracks all changes, improvements, and fixes for the YFull Finder browser extension.
+## [2.0.8] — 2026-02-15
+**Auth Stability & Session Isolation**
+### 🚀 Features
+- **Fork-on-Sync Auth**: Implemented a new authentication architecture where the extension and web portal maintain independent sessions. This prevents "Token Reuse" errors that were causing frequent logouts.
+- **Auto-Login Preservation**: Seamlessly logs you into the extension when you log into the portal (and vice versa) without linking the sessions permanently.
+### 🛠 Improvements
+- **Cross-Tab Stability**: Added safeguards to prevent multiple portal tabs from conflicting during session refreshes.
 ## [2.0.7] — 2026-02-14
 **Mobile Polish & Localization Guard**
 ### 🚀 Features
