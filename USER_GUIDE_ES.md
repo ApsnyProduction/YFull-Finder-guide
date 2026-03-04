@@ -526,7 +526,6 @@ Si encuentra un problema que no se describe en esta guía:
 - 💬 **Chat del Portal:** Pestaña **Messages** en [yfinder.apsny.dev](https://yfinder.apsny.dev)
 - 📧 **Email:** AbkhazDNA@proton.me
 - 💬 **Telegram:** [Chat de Ajwla (EN)](https://t.me/+MQ-bXjVjROo1ZjY1)
-- 🌐 **Portal Web:** [yfinder.apsny.dev](https://yfinder.apsny.dev)
 
 ---
 
