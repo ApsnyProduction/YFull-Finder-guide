@@ -1,7 +1,7 @@
 # 🧬 YFull Finder (Ajwla) — Руководство пользователя
 
 > **Версия:** 2.2.1 | **Обновлено:** 4 марта 2026  
-> **Проект:** [Abkhaz DNA Project](https://t.me/abkhazdna)
+> **Проект:** [Ajwla](https://t.me/ajwla_ru)
 
 **YFull Finder (Ajwla)** — это расширение для браузера, которое обогащает научное дерево [YFull.com](https://www.yfull.com) генеалогическими данными. Оно превращает сухие ID образцов в живую историю, добавляя фамилии, племена и этнические флаги прямо в интерфейс сайта.
 
@@ -510,14 +510,14 @@
 
 **A:** 
 1. Через вкладку **Messages** на [веб-портале](https://yfinder.apsny.dev) — напишите сообщение прямо в интерфейсе.
-2. Через [Telegram](https://t.me/abkhazdna).
+2. Через [Ajwla chat](https://t.me/+ro2BB7eqc6o1NjM9).
 3. По email: AbkhazDNA@proton.me
 </details>
 
 <details>
 <summary><strong>Q: Как удалить свой аккаунт и данные?</strong></summary>
 
-**A:** Свяжитесь с администрацией через [Telegram](https://t.me/abkhazdna) или вкладку **Messages** на портале с запросом на удаление. Мы обработаем запрос в течение 48 часов.
+**A:** Свяжитесь с администрацией через [Ajwla chat](https://t.me/+ro2BB7eqc6o1NjM9) или вкладку **Messages** на портале с запросом на удаление. Мы обработаем запрос в течение 48 часов.
 </details>
 
 ---
@@ -542,8 +542,8 @@
 
 - 💬 **Чат на портале:** Вкладка **Messages** на [yfinder.apsny.dev](https://yfinder.apsny.dev)
 - 📧 **Email:** AbkhazDNA@proton.me
-- 💬 **Telegram:** [Abkhaz DNA Project](https://t.me/abkhazdna)
-- 🌐 **Веб-портал:** [yfinder.apsny.dev](https://yfinder.apsny.dev)
+- 💬 **Telegram:** [Ajwla chat](https://t.me/+ro2BB7eqc6o1NjM9)
+
 
 ---
 
