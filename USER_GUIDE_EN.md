@@ -1,31 +1,22 @@
 # 🧬 YFull Finder (Ajwla) — User Guide
 
-> **Version:** 2.2.1 | **Updated:** March 4, 2026  
-> **Project:** [Ajwla](https://t.me/ajwla_en)
+> **Guide version:** 3.0.3 | **Updated:** May 13, 2026  
+> **Portal:** [yfinder.apsny.dev](https://yfinder.apsny.dev) | **Project:** [Ajwla](https://t.me/ajwla_en)
 
-**YFull Finder (Ajwla)** is a browser extension that enriches the scientific tree of [YFull.com](https://www.yfull.com) with genealogical data. It transforms dry sample IDs into living history by adding surnames, tribes, and ethnic flags directly to the site's interface.
+**YFull Finder (Ajwla)** is a browser extension and web portal that adds a genealogical layer to the YFull.com tree: surnames, ethnic groups, regions, clan fields, source links, G25, geographic coordinates, and analytics for the current tree branch.
+
+The extension **does not change** YFull scientific data. It only shows additional information from the Ajwla database on top of the YFull interface and helps users contribute to the database.
 
 ---
 
 ## 📑 Table of Contents
+
 1. [Installation](#-part-1-installation)
-   - [PC (Windows, macOS, Linux)](#-1-for-pc-windows-macos-linux)
-   - [Android](#-2-for-android-mobile-version)
-   - [iOS](#-3-for-ios-iphone--ipad)
-2. [First Launch and Setup](#️-part-2-first-launch-and-setup)
-3. [Using Features](#-part-3-using-features)
-   - [Automatic Tree Enrichment](#1-automatic-tree-enrichment)
-   - [Adding Data](#2-adding-data-contribution)
-   - [Anonymous Contribution](#3-anonymous-contribution-shadow-profile)
-   - [Personal Dashboard (Web Portal)](#4-personal-dashboard-web-portal)
-   - [Profile Avatar](#5-profile-avatar-)
-   - [Leaderboard](#6-leaderboard-top-contributors-)
-   - [Bulk Upload](#7-bulk-upload-)
-   - [Deletion Request](#8-sample-deletion-request-%EF%B8%8F)
-   - [Messages to Admin](#9-messages-to-admin-)
-   - [Smart Screenshots](#10-smart-screenshots-)
-   - [Screenshot Annotations](#11-screenshot-annotations-%EF%B8%8F)
-   - [Transliteration](#12-transliteration-cyrillic--latin-)
+   - [Desktop (Windows, macOS, Linux)](#-1-desktop-windows-macos-linux)
+   - [Android](#-2-android-mobile-version)
+   - [iOS](#-3-ios-iphone--ipad)
+2. [First launch and setup](#️-part-2-first-launch-and-setup)
+3. [Using features](#-part-3-using-features)
 4. [FAQ and Troubleshooting](#-part-4-faq-and-troubleshooting)
 
 ---
@@ -34,508 +25,609 @@
 
 The extension supports all major Chromium-based browsers and Mozilla Firefox.
 
-### 🖥 1. For PC (Windows, macOS, Linux)
+### 🖥 1. Desktop (Windows, macOS, Linux)
 
 #### Google Chrome, Microsoft Edge, Brave, Opera
-1. Go to the extension page in [**Chrome Web Store**](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi)
-2. Click the **"Add to Chrome"** button.
-3. Confirm installation in the popup window.
-<img width="1682" height="952" alt="image" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
 
+1. Open the extension page in the [**Chrome Web Store**](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi).
+2. Click **Add to Chrome**.
+3. Confirm installation in the popup window.
+4. Pin the extension icon in the browser toolbar through the extensions menu.
+
+<img width="1682" height="952" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
 
 #### Mozilla Firefox
-1. Go to [**Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/)
-2. Click **"Add to Firefox"**.
-3. Confirm installation permission.
-<img width="1331" height="904" alt="image" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
 
+1. Open the extension page in [**Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/).
+2. Click **Add to Firefox**.
+3. Confirm the installation permission.
+4. Pin the extension icon to the browser toolbar.
 
----
+<img width="1331" height="904" alt="Firefox Add-ons" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
 
-### 📱 2. For Android (Mobile Version)
+### 📱 2. Android (Mobile version)
 
 > [!NOTE]
 > Regular mobile Chrome does not support extensions. To use YFull Finder on Android, use browsers with extension support.
 
-#### Recommended Method: Mozilla Firefox (Native Support)
-**Mozilla Firefox** is the most stable option for Android with full extension support.
+#### Recommended method: Mozilla Firefox
 
 1. Install **Firefox** from [Google Play Market](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
-2. Open Firefox and go to **Menu** (three dots) → **Add-ons**.
-3. Find **YFull Finder** through search or go to the [direct link](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/).
-4. Click **"Add to Firefox"**.
+2. Open Firefox and go to **Menu** → **Add-ons**.
+3. Search for **YFull Finder** or open the [direct link](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/).
+4. Click **Add to Firefox**.
 
-> [!TIP]
-> **For better experience:** In Firefox settings, enable **"Desktop Mode"** on YFull.com. This allows you to see the full tree without mobile limitations.  
-> To do this: Menu → Settings → Site → View Mode → **Desktop Site**.
+#### Alternative method: Kiwi Browser
 
-#### Alternative Method: Kiwi Browser
 1. Install **Kiwi Browser** from [Google Play Market](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser).
-2. In Kiwi Browser, open the [Chrome Web Store](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi) page.
-3. Find **YFull Finder** and click "Install".
+2. In Kiwi Browser, open the [Chrome Web Store](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi).
+3. Find **YFull Finder** and click install.
 
----
+<img width="1215" height="2100" alt="Screenshot_20260513-225230_Firefox" src="https://github.com/user-attachments/assets/1cad6597-dd7e-41d0-b54b-c2791f353e42" />
 
-### 🍎 3. For iOS (iPhone & iPad)
+
+### 🍎 3. iOS (iPhone & iPad)
 
 > [!NOTE]
-> Safari on iOS does not support Chrome/Firefox extensions. Use **Orion** browser — the only iOS browser with full support for Firefox and Chrome extensions.
+> Safari on iOS does not support Chrome/Firefox extensions. Use **Orion Browser** — the only iOS browser with full extension support.
 
-#### Installation via Orion Browser
-1. Install **Orion Browser** from [App Store](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200).
+1. Install **Orion Browser** from the [App Store](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200).
 2. Open Orion and go to **Settings** → **Extensions**.
 3. Choose **Firefox Add-ons** or **Chrome Web Store**.
-4. Find **YFull Finder** and install the extension:
-   - [Firefox Add-ons version](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/)
-   - [Chrome Web Store version](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi)
+4. Find **YFull Finder** and install the extension.
 
 > [!TIP]
-> **For better experience on iPad:** Enable Desktop Site mode in Orion settings for full YFull tree display.
+> On iPad, enable **Desktop Site** in Orion settings for full YFull tree display.
+
+https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 ---
 
-## ⚙️ Part 2. First Launch and Setup
+## ⚙️ Part 2. First launch and setup
 
-After installation, it's important to pin the extension and log in to access all features.
+### Step 1: Pinning and login
 
-### Step 1: Pinning and Login
-To keep the icon always at hand:
+To keep the icon at hand:
 
-1. Click on the **"Puzzle"** icon 🧩 in the top right corner of the browser.
-<img width="209" height="41" alt="image" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
+1. Click the **Puzzle** 🧩 icon in the upper-right corner of the browser.
 
-2. Find **YFull Finder** and click the **"Pin"** button.
-<img width="314" height="41" alt="image" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
+<img width="209" height="41" alt="Puzzle icon" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
 
-3. Click on the extension icon.
-<img width="314" height="64" alt="image" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
+2. Find **YFull Finder** and click **Pin**.
+
+<img width="314" height="41" alt="Pin extension" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
+
+3. Click the extension icon.
+
+<img width="314" height="64" alt="Extension icon" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
 
 4. In the opened window, go to the **Register** or **Login** tab.
-<img width="335" height="408" alt="image" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
 
-5. Enter your username, email, and password.
+<img width="335" height="408" alt="Login popup" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
+
+5. Enter your email, username, and password.
 
 > [!TIP]
-> Authorization allows you not only to view but also to add data that will be linked to your profile. Your sessions are **automatically synced** between the extension and the web portal.
-
----
+> Authorization lets you not only view data, but also add data attached to your profile. Sessions are synchronized automatically between the extension and web portal. If you log out manually, automatic login in the current session is disabled until the next login.
 
 ### Step 2: Personalization (Themes and Language)
 
-In the extension popup (click the icon in your browser toolbar), you can customize the interface:
+In the extension popup (click the browser icon), you can customize the interface:
 
-*   **🌐 Language:** Click on the flag icon to choose:
-    - **English**
-    - **Russian**
-    - **Abkhazian** (Аҧсшәа)
-    - **Spanish** (Español)
+- **🌐 Language:** English, Русский, Аҧсшәа, Español.
+- **🎨 UI Theme:** **Lite** and **Premium**.
+- **📸 Screenshot:** quick launch of the screenshot tool on tree pages
 
-*   **🎨 Theme:**
-    - **Lite:** Compact list with minimal spacing. Ideal for analyzing large trees and preserving YFull data density.
-    - **Premium:** Modern glassmorphism design (frosted glass effect) with large fonts and animations.
+**Lite** keeps the tree compact. **Premium** adds larger elements, glass styling, and animations.
 
-> [!NOTE]
-> The theme toggle is available in the extension popup only when you are **logged in**. Changing the language in the popup **instantly refreshes** all interface elements on the page, including modals and tooltips.
-
-<img width="326" height="66" alt="image" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
+<img width="326" height="66" alt="Theme switcher" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
 
 ---
 
-## 🚀 Part 3. Using Features
+## 🚀 Part 3. Using features
 
-### 1. Automatic Tree Enrichment
+### 1. Automatic tree enrichment
 
-As soon as you visit YFull.com, the extension automatically recognizes sample IDs and overlays a layer of genealogical data.
+On YFull pages, the extension recognizes sample IDs and adds visual chips with Ajwla data.
 
-*   **Before:** Only code (e.g., `YF143588`).
-*   **After:** Colored chip with surname, ethnicity, region, and national flag.
+- **Before:** only a code, for example `YF143588`.
+- **After:** ID plus surname, ethnicity, region, flag, and additional actions.
 
-<img width="1244" height="444" alt="image" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
+**🏴 30+ ethnic flags:** Flags are supported for Caucasian, Turkic, Uralic, Baltic, and other ethnic groups. All SVG flags are standardized to the same aspect ratio.
 
-*   **🏴 30+ Ethnic Flags:** Flags are supported for Caucasian, Turkic, Uralic, Baltic, and other ethnic groups. All SVG flag assets are standardized to a consistent aspect ratio for uniform display.
+**Supported pages:** `/tree/`, `/live/tree/`, `/mtree/`, `/live/mtree/`, `/sc/tree/`, `/chart/tree/`, `/sc/mtree/`, `/chart/mtree/`.
 
-*   **📱 Mobile Tooltips:** On touch devices, data chips work in **tap-to-toggle** mode — tap a chip to see detailed information. Tap again to dismiss the tooltip.
+<img width="1244" height="444" alt="Tree enrichment" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
 
-> [!NOTE]
-> The extension **does not modify** YFull's scientific data. It only adds a visual layer with genealogical information over the existing interface.
+#### Action chips: source, G25, and Location
 
----
+If a sample has additional fields, quick actions can appear next to it:
 
-### 2. Adding Data (Contribution)
+- **🔗 Publication link** — opens the source or publication.
+- **🧬 G25** — copies G25 coordinates.
+- **📍 Location** — opens coordinates in OpenStreetMap.
 
-You can help the community by adding information about a sample you know:
+<img width="725" height="66" alt="image" src="https://github.com/user-attachments/assets/8002cc02-bc0e-4905-903c-632f95be0a81" />
 
-1. Find a sample with a gray **[+]** icon (this means there's no data yet).
-<img width="625" height="261" alt="image" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
 
-2. Click on **[+]**. You'll be redirected to the data entry form on the portal.
+### 2. Bottom tree toolbar
 
-3. Select the record type (**Y-DNA tree** or **mtDNA tree**) at the top of the site.
+Version 3.0 introduced a unified floating tree toolbar.
 
-4. Fill in the fields. The form supports a **field catalog** — click **[+ Add Field]** to see all available fields in a visual catalog:
-   - **Surname** — required
-   - **Tribe/Ethnicity** — required
-   - **Village**
-   - **Region** (Historical region)
-   - **Teip, Tukkhum, Gar, Neke, Tem, Ataul** — Clan/tribal structures
-   - **Gorge**
-   - **Shakhar**
-   - **Abipara**
-   - **Krsna Slava** (🇷🇸 Serbian patron saint)
-   - **Info** (Additional information)
-   - **Link** (Source link)
+**Main buttons:**
 
-<img width="774" height="733" alt="image" src="https://github.com/user-attachments/assets/f0bba550-2576-474e-97fe-abc4ef0fcdda" />
+- **📂 Collapse branches** — collapse or expand branches.
+- **🆕 New samples only** — show only new samples.
+- **🦴 Ancient DNA only** — show only ancient samples.
+- **🌿 Branches only** — keep only the branch structure.
+- **📊 Analytics** — open the analytics panel.
 
-5. **Auto-save drafts:** 💾 Your form is automatically saved with every change. If you close the page and return, all entered data will be restored. The save indicator shows: ✅ "Saved" / ⏳ "Saving..."
+Filters can be combined. For example, **New samples only** + **Ancient DNA only** shows new ancient samples.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/26efb2de-a668-49e4-a6df-fb469c246478" width="100" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c02dbad4-24ef-489f-88d1-577b7d536c1f" width="800" /></td>
+  </tr>
+</table>
 
-6. Click **Submit**. The data will appear on the site for all users **instantly**!
+### 3. Branch collapsing
+
+Large branches can be collapsed entirely. A collapsed branch shows a short summary:
+
+- sample count;
+- countries and flags;
+- ancient sample count;
+- short labels from found data.
+
+You can collapse all branches from the toolbar or a single branch through the inline toggle.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Before</th>
+      <th align="center">After</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/fbd7e950-d6a7-456b-9c73-db431fa64850" width="450" alt="Before" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c811a3b9-46a9-42d8-b9bf-ed53abe93dd3" width="450" alt="After" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 4. Tree filters
+
+- **New samples only** — highlights and keeps new samples.
+- **Ancient DNA only** — keeps ancient samples.
+- **Branches only** — shows the tree skeleton and sample-count badges.
+
+When a filter is disabled, the tree returns to its original state.
+
+<table>
+  <tr>
+    <th align="left">New samples only</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/49417f92-6695-4318-a96e-7de0f2e8405e" width="800" alt="New samples only" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Branches only</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/38d89ced-740c-4ce9-8c93-41c20f6e34e2" width="800" alt="Branches only" />
+    </td>
+  </tr>
+</table>
+
+
+### 5. Analytics drawer
+
+The **Analytics** button opens a side panel with analytics for the current tree or current filtered set.
+
+**Tabs:**
+
+- **📊 Distribution** — geographic distribution.
+- **🗣 Languages** — distribution by languages and language families.
+- **🧬 Diversity** — SNP diversity estimate using Faith's Phylogenetic Diversity.
+- **📋 DB Insights** — Ajwla data summary: surnames, ethnicities, villages, regions.
+
+<img width="397" height="198" alt="image" src="https://github.com/user-attachments/assets/46cba69f-083d-4b7a-8bfb-53f14d4445e6" />
+
+
+#### Distribution
+
+- **Geo level:** Regions or Countries.
+- **Sample set:** All samples, Modern samples, Paleo DNA samples.
+- Charts: donut, bars, and table.
+
+<img width="397" height="674" alt="image" src="https://github.com/user-attachments/assets/7ead4e3e-b9d0-490c-8200-b900a70d44d6" />
+
+
+#### Languages
+
+Modes: **Counts**, **Diversity**, **Language Distribution**, **Language Families**, **Language Diversity**, **Language Family Diversity**.
+
+<img width="397" height="684" alt="image" src="https://github.com/user-attachments/assets/757d7f5b-9563-45a3-8607-08c0a971dba4" />
+
+
+#### Diversity
+
+The table contains: **Diversity share**, **PD years**, **Branches**, **Samples**. The **What is this?** button expands a methodology explanation. **Article** and **Docs** links are also available.
+
+<img width="397" height="656" alt="image" src="https://github.com/user-attachments/assets/f0857a1b-7cea-4023-a351-25c76961fb54" />
+
+
+#### DB Insights
+
+Aggregates Ajwla fields from the current tree: **Surname**, **Ethnicity / Tribe**, **Village**, **Region**.
+
+<img width="397" height="720" alt="image" src="https://github.com/user-attachments/assets/8221354b-8906-43e6-99ec-07f33a42b8ad" />
+
+
+### 6. Mobile features
+
+On touch devices, tooltips work through **tap-to-toggle**: tap a chip to open information, and tap again to close it.
+
+Mobile tree pages have a quick-add button toggle. It shows or hides **+** buttons next to samples.
+
+<img width="919" height="1280" alt="image" src="https://github.com/user-attachments/assets/2486343f-58f0-455c-a525-ad1af621f677" />
+
+
+### 7. Smart screenshots 📸
+
+The screenshot tool lets you capture the tree in high resolution. You can access it through the floating camera button on tree pages or through the **Screenshot** button in the extension popup menu.
+
+#### 🚀 Main feature: flawless quality
+The main focus is **maximum detail**. Rendering takes a little longer than a regular screenshot, but the result guarantees perfect sharpness for every line and text label.
+
+> [!IMPORTANT]
+> **How to preserve quality:** So messengers (Telegram, WhatsApp, etc.) do not compress the image, send the screenshot as a **File**, not as a photo.
+
+#### 🛠 Capture modes:
+* **Selection:** Free capture of the needed tree area.
+* **Full Tree:** Automatic capture of the whole structure.
+
+#### 🎨 Built-in editor and markup:
+Prepare screenshots for reports directly in the extension interface. Annotation tools let you add layers over the captured image:
+* **Text:** Add typed explanations.
+* **Arrows:** Point to key elements.
+* **Shapes:** Highlight blocks with rectangles or underlines.
+
+#### 📂 Export and features:
+* **Formats:** PNG, SVG (vector), PDF.
+* **Automation:** Timestamp, project watermark, and automatic clipboard copy.
+* **Clean capture:** Automatically hides extra UI (navigation buttons, menus) before capture.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fb29fa0a-d573-45e0-a64c-d26242e0a2d2" width="350" alt="Export format settings" />
+</p>
+
+### 8. Screenshot annotations ✏️
+
+In **Selection** mode, after selecting an area, the annotation panel opens.
+
+**Tools:** Arrow, Line, Rectangle, Text, Color, Undo.
+
+For text, an advanced menu is available: font selector, size, **B/I/U/S**, text/background/outline color, opacity, text block dragging, undo with Ctrl+Z or Cmd+Z.
+
+<img width="1840" height="913" alt="Selection overlay" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
+
+> **Screenshot:** annotation toolbar with Arrow, Line, Rectangle, Text, Color, Undo.
+> **Screenshot:** text settings menu with color, outline, and opacity.
+
+### 9. Adding data (Contribution)
+
+If a sample has no data yet, a gray **+** button appears next to it.
+
+1. Hover over the sample row or enable add buttons on mobile.
+2. Click **+**.
+3. The portal opens with the YFull ID prefilled.
+4. Fill in the required fields and save.
 
 > [!TIP]
-> The **[+]** button appears when you hover over a sample row (with a 350ms delay to prevent flickering). On mobile devices, you can toggle add buttons on/off in the extension settings.
+> The **[+]** button appears when hovering over a sample row (with a 350 ms delay to prevent flicker). On mobile devices, the button can be enabled/disabled with the toggle.
 
----
+<img width="625" height="261" alt="Plus button" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
 
-### 3. Anonymous Contribution (Shadow Profile)
+#### Form fields
 
-If you want to share data but remain anonymous:
+**Required:** YFull ID, Surname, Tribe / Ethnicity.
 
-*   In the entry form, check the **"Make Anonymous"** box.
-*   Your contribution will be saved, but in the change history it will be marked as **"Anonymous"**.
-*   **Important:** Anonymity only hides your name as the author. The genealogical data itself (surname, ethnicity) remains public for the benefit of the entire community.
+**Location:** Village, Region, Gorge, Location.
+
+**Clan and lineage fields:** Ataul, Teip, Tukkhum, Gar, Neke, Tem, Abipara, Shakhar, Krsna slava, Haqqu, Qibil, Ruq, Sikhil, Jins.
+
+**Additional:** Additional info, Publication link, G25 Coordinates.
+
+#### Add details field catalog
+
+The **Add details** button opens a visual field catalog with search (Search fields...), categories (Required, Location, Patronomy, Additional), selected-field counter, and Cancel/Apply buttons. Required fields are pinned and cannot be disabled.
+
+
+<img width="895" height="780" alt="image" src="https://github.com/user-attachments/assets/a29f6c07-176e-4eb3-be1e-b8f255eaa845" />
+
+### 10. Transliteration (Cyrillic → Latin) 🔤
+
+When Cyrillic text is entered, a warning and **Transliterate** button appear. It converts text, for example `Иванов` → `Ivanov`.
+
+> [!TIP]
+> For the convenience of the international community, Latin letters are recommended.
+
+<img width="648" height="324" alt="image" src="https://github.com/user-attachments/assets/6914402e-1208-4336-8ef5-36cb311e792a" />
+
+
+### 11. Location and map 🗺
+
+The **Location** field stores coordinates of the ancestral place. Coordinates can be pasted manually or selected on the map.
+
+1. Click the map button next to the Location field.
+2. In the **Select Location** modal, find a place through search or click the map.
+3. Check the coordinates.
+4. Click **Confirm**.
+
+Different coordinate formats are normalized, including decimal coordinates and Google Maps links.
+
+<img width="764" height="575" alt="image" src="https://github.com/user-attachments/assets/3536af8d-04a1-4456-a080-bd09b560be13" />
+
+
+### 12. G25 Coordinates 🧬
+
+Field for G25 coordinates. On the tree, they are available through the quick **G25** chip, which copies the value.
+
+
+### 13. Anonymous contribution (Shadow Profile) 🕵️
+
+Enable **Anonymous Editing** or **Make Anonymous** in the form to hide the author name.
 
 > [!NOTE]
-> Even without registering, your contributions are saved via the **Shadow Profile** system. If you later register, all your previous contributions will be automatically linked to your account.
+> Anonymity hides only the author name. Genealogical data remains public. Guest contributions are saved through Shadow Profile. After registration, previous guest contributions can be linked to the account.
 
----
+<img width="353" height="75" alt="image" src="https://github.com/user-attachments/assets/6efb6866-f72f-44ae-a6e6-58d5d5429d98" />
 
-### 4. Personal Dashboard (Web Portal)
 
-Manage your contributions through the web portal [**yfinder.apsny.dev**](https://yfinder.apsny.dev):
+### 14. Editing an existing sample ✏️
 
-*   **📊 Statistics Panel:** At the top of the portal, a live statistics banner shows the database overview — Y-DNA sample count, mtDNA count, monthly growth, and last update date.
+1. Open the sample in **My Samples** on the portal or through the modal window on YFull.
+2. Click **Edit** or **Request Edit**.
+3. Change only the fields you need.
+4. Submit the request.
 
-<img width="645" height="52" alt="image" src="https://github.com/user-attachments/assets/54a910ee-2865-4ebb-9199-8f1b117f7e16" />
+Changes go to moderation. The request shows a diff: removed and added values.
 
-*   **📝 My Samples:** List of all samples you've added with:
-    - Quick search by ID, surname, or ethnicity
-    - DNA type filtering (Y-DNA / mtDNA)
-    - Instant editing (click ✏️)
-    - Deletion request (click 🗑️)
+<img width="568" height="490" alt="image" src="https://github.com/user-attachments/assets/73df0b44-ba99-464a-84aa-fd08cb9b200b" />
 
-<img width="1250" height="825" alt="image" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
 
-*   **📂 My Requests:** Track the status of your contributions filtered by status:
-    - **Pending:** Waiting for moderator approval.
-    - **Approved:** Successfully added to the database.
-    - **Rejected:** Returned for correction (see admin comments for reason).
-    - Each request shows a **visual comparison** (diff) — which fields were changed.
+### 15. Sample deletion request 🗑
 
-<img width="1250" height="609" alt="image" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
+1. Open **My Samples**.
+2. Find the sample.
+3. Click **Delete**.
+4. Enter the required reason.
+5. Submit the request.
 
----
+A moderator will review the request and approve or reject the deletion.
 
-### 5. Profile Avatar 🖼
+<img width="501" height="516" alt="Delete request" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
 
-Upload a personal avatar for your profile:
+### 16. Personal account (Web Portal) 🌐
 
-1. Open the **Dashboard** on the portal or the **extension popup**.
-2. Click on the user icon (or current avatar).
-3. Choose a photo from your computer.
-4. Use the **cropping tool** — drag and scale the image for perfect framing.
-5. Click **Save**.
+The portal is available at [yfinder.apsny.dev](https://yfinder.apsny.dev).
 
-<img width="395" height="480" alt="image" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
+**Main routes:**
+- `/` — public home page and add form.
+- `/profile/add` — add a sample.
+- `/profile/samples` — my samples.
+- `/profile/requests` — my requests.
+- `/profile/messages` — contact the administrator.
+- `/profile/rating` — contributor rating.
 
-*   Images are **automatically compressed** (max 2 MB, 1024px) and converted to WebP format.
-*   Your avatar appears in your profile, the leaderboard, and next to your contributions.
-*   To **delete** the avatar, click on the current photo and select "Delete".
+<img width="1260" height="687" alt="image" src="https://github.com/user-attachments/assets/cb0b053e-b0ce-45dc-8790-362b4fd1932c" />
 
----
 
-### 6. Leaderboard (Top Contributors) 🏆
+#### Header and StatsBar
 
-The Leaderboard is a ranking system that recognizes our most active volunteers. It displays users who have contributed the most samples to the database.
+**Header:** logo, language selector, Bulk Upload, DNA type (Y-DNA / Y+Mt / mtDNA), Modern UI / Classic UI, user menu with avatar, email, and Logout.
 
-*   **Where to find it:** Open the **Rating** tab in the web portal.
-*   **Filtering:** You can filter the ranking by:
-    - **DNA Type:** Y-DNA, mtDNA, or All.
-    - **Time Period:** 7 days, 30 days, or All time.
-*   **Your Rank:** The system automatically highlights your position, even if you aren't in the top 10 yet.
-*   **📈 Rank Trends:** Next to each participant, a position change indicator is shown (↑ up, ↓ down, — stable), similar to stock market trends.
-*   **🙈 Privacy:** If you want to hide your name from the leaderboard, enable the **"Hide in Leaderboard"** option in your profile settings. Your samples will still be counted, but your name will display as "Anonymous".
+**StatsBar:** number of Y-DNA and mtDNA samples, monthly growth, data-as-of date.
 
-<img width="903" height="814" alt="image" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
+#### Profile and avatar 🖼
 
----
+Avatar, ID, Y-DNA and mtDNA contribution stats. The avatar can be uploaded, cropped, replaced, or deleted. The image is automatically compressed (max. 2 MB, 1024px) and converted to WebP.
 
-### 7. Bulk Upload 📦
+<img width="395" height="480" alt="Avatar crop" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
 
-For power users: add **multiple samples** at once through JSON format.
+#### My Samples
 
-1. Open the portal [**yfinder.apsny.dev**](https://yfinder.apsny.dev) and log in.
-2. Click the **"Bulk Upload"** button.
-3. In the modal:
-   - Select the **target database** and **DNA type** (Y-DNA / mtDNA).
-   - Paste data in JSON format:
+Search by YFull ID, All/YDNA/MTDNA filters, Refresh button, cards with ID, DNA type, surname, ethnicity, village, region, and date. Edit, Delete, pagination with Prev/Next and Go.
 
+<img width="1250" height="825" alt="My Samples" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
+
+#### My Requests
+
+Filters: All, Pending, Approved, Rejected. Request types: Bulk Upload Request, Edit Request, Deletion Request. Each shows status, date, DNA type, user comment, admin response, and diff of changed fields.
+
+<img width="1250" height="609" alt="My Requests" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
+
+#### Messages 💬
+
+Message the administrator directly on the portal. Type a message..., 500-character limit, Enter sends, Shift+Enter adds a new line. Links in messages become clickable. Admin replies appear in the same chat.
+
+<img width="1278" height="612" alt="Messages" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
+
+#### Rating 🏆
+
+Contributor rating: Contributors / Samples / Avg. Contrib. stats, period filters (Last 7 days / Last 30 days / All time) and DNA type filters (Combined / Y-DNA / mt-DNA). Podium, Top Contributors table, your position and gap to the next place, position trends, activity sparklines. **Hide name in leaderboard** option.
+
+<img width="903" height="814" alt="Rating" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
+
+#### Services 🛠
+
+The floating **Services** button opens the **Genealogy Projects** panel with **Haplogroup Data Explorer** (opens `https://snp.valalav.ru/`). Buttons: Open, Details, Collapse.
+
+<img width="494" height="302" alt="image" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
+
+
+#### Extension Prompt
+
+If the portal does not detect the extension, an installation prompt appears with a button for your browser: Install for Chrome, Install for Firefox, Installation Guide on mobile, Install Extension for others.
+
+<img width="289" height="154" alt="image" src="https://github.com/user-attachments/assets/c6c8934e-02cf-48d8-a186-727a6e7a50e6" />
+
+
+### 17. Bulk Upload 📦
+
+Add multiple samples through JSON.
+
+**Format (current — object with `id:YF...` keys):**
 ```json
-[
-  {
-    "id": "YF123456",
+{
+  "id:YF12345": {
     "surname": "Ivanov",
     "tribe": "Russian",
     "village": "Moscow"
-  },
-  {
-    "id": "YF789012",
-    "surname": "Petrov",
-    "tribe": "Ukrainian"
   }
-]
+}
 ```
 
-4. **JSON Code Helper:** 🛠 Click the **"Code Helper"** button for a visual JSON builder:
-   - Browse the **complete field catalog** with descriptions
-   - Check the fields you need
-   - Generate a **JSON template** with one click
-   - Copy the template to clipboard or insert it directly into the form
+1. Click **Bulk Upload**.
+2. Select DNA type: **Y-DNA** or **mtDNA**.
+3. Paste JSON.
+4. Enable anonymity if needed.
+5. Click **Upload**.
 
-<img width="881" height="690" alt="image" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
+**JSON Code Helper** 🛠 — a visual helper for selecting fields and generating a template. It lets you choose fields, generate a template, see the number of samples, copy JSON, or insert it directly into the field.
 
-5. The system automatically **checks for duplicates** and shows which IDs already exist in the database.
-6. Click **Upload** to submit. The request will be created and sent for moderation.
+<img width="881" height="690" alt="JSON helper" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
 
-> [!NOTE]
-> Bulk Upload is available only for **authenticated users**. Requests go through moderation before being added to the database.
+**Processing:** a moderation request is created (Bulk upload request submitted for review). If duplicates are found, you can select them and submit changes as requests through **Request Changes for Selected**, or close with **Done (Skip Updates)**.
 
----
+<img width="881" height="217" alt="image" src="https://github.com/user-attachments/assets/842e36b5-853a-4f1b-a841-ce0b44d2ea54" />
 
-### 8. Sample Deletion Request 🗑️
 
-If you find a duplicate or erroneous sample:
-
-1. Find the sample in the **My Samples** section on the portal.
-2. Click the **trash** icon 🗑️ next to the sample.
-3. In the modal, **provide a reason** for deletion (this is a required field).
-4. Click **"Send Request"**.
-
-The request will be sent to a moderator who will review it and make a decision.
-
-<img width="501" height="516" alt="image" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
-
----
-
-### 9. Messages to Admin 💬
-
-Contact the project administration **directly from the portal**, without needing to switch to a messenger:
-
-1. Open the **"Messages"** tab in the dashboard on the portal.
-2. Type your message in the text field.
-3. Press **Enter** to send (Shift+Enter for a new line).
-4. The admin's reply will appear in the same chat.
-
-<img width="1278" height="612" alt="image" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
-
-*   Links in messages are automatically made clickable.
-*   A character counter helps you control message length.
-
----
-
-### 10. Smart Screenshots 📸
-
-Create high-quality, shareable images of the YFull tree with one click.
-
-**Method 1: Floating Button**
-1.  Look for the **Camera Icon** 📷 in the bottom-right corner of any YFull tree page.
-2.  Click it to open the screenshot tool.
-
-**Method 2: Extension Popup**
-1.  Click the extension icon in your browser toolbar.
-2.  Select **"Screenshot"** from the menu.
-
-**Capture Modes:**
-*   **Area Selection:** Draw a rectangle with the mouse to capture a specific part of the tree. The selection interface uses a sleek **Ubuntu 24.04 LTS** dark aesthetic with dimension labels.
-
-<img width="1840" height="913" alt="image" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
-
-*   **Full Tree:** Captures the entire tree including nested branches.
-*   **Scientific View:** Full capture with timeline.
-*   **Chart View:** Capture with expanded nested structures.
-
-**Export Formats:**
-*   **PNG** — High-quality raster image.
-*   **SVG** — Vector format for lossless scaling.
-*   **PDF** — Document for printing and sharing.
-
-**Additional Features:**
-*   **📋 Auto-copy to clipboard:** After taking a screenshot, the image is automatically copied — just paste (Ctrl+V) into a chat or document.
-*   **🔖 Project watermark:** The project logo is automatically placed in the corner of the screenshot. Its position adapts to avoid covering important data. Watermark preview is visible during area selection.
-*   **🧹 Clean capture:** Unnecessary UI elements (buttons, widgets) are automatically hidden before capture.
-
-<img width="363" height="453" alt="image" src="https://github.com/user-attachments/assets/fb29fa0a-d573-45e0-a64c-d26242e0a2d2" />
-
----
-
-### 11. Screenshot Annotations ✏️
-
-After selecting an area, an **advanced annotation editor** opens, allowing you to add text and marks directly on the screenshot:
-
-**Text Annotations:**
-*   Click on the screenshot to add a text annotation.
-*   A **contextual menu** opens right next to the cursor with settings:
-    - **Font:** Standard fonts (Inter, Montserrat, Lobster) and **authentic Abkhazian** fonts (CCarial, LiteraturAB).
-    - **Font Size**
-    - **Style:** Bold, Italic, Underline, Strikethrough
-    - **Text Opacity**
-    - **Text Color:** Color palette
-    - **Background Color:** Color palette
-    - **Text Outline:** Color palette (uses 16-point circular text-shadow engine for crisp outlines)
-
-*   **Drag to Move:** The drag handle (`⋯`) allows repositioning text boxes before finalization.
-*   **Undo (Ctrl+Z):** Quick undo of the last action.
-*   **Area Mask:** All drawings and texts are strictly bounded within the selected screenshot area.
-
----
-
-### 12. Transliteration (Cyrillic → Latin) 🔤
-
-For the convenience of the international community, **one-click transliteration** is provided:
-
-*   When entering Cyrillic text in fields (Surname, Ethnicity, Village, etc.), a warning appears with a **"Transliterate"** button.
-*   Click the button — the text is automatically converted to Latin: `Иванов` → `Ivanov`.
-*   Works in all forms: add, edit, and modal windows.
-
-> [!TIP]
-> For the convenience of all users, it is recommended to enter data in **Latin letters**. Transliteration helps quickly convert already entered Cyrillic text.
 
 ---
 
 ## ❓ Part 4. FAQ and Troubleshooting
 
-### Frequently Asked Questions
-
 <details>
-<summary><strong>Q: Data chips don't appear on YFull page</strong></summary>
+<summary><strong>Q: Ajwla chips do not appear on YFull</strong></summary>
 
 **A:** Try the following:
 1. Refresh the page (F5 or Ctrl+R/Ctrl+F5).
-2. Make sure the extension is active (icon should be colored, not gray).
-3. Check that you're logged in to the extension.
-4. Clear browser cache and reload the page.
-5. If the problem persists, reinstall the extension.
+2. Make sure the extension is enabled (the icon is colored, not gray).
+3. Check that you are on `/tree/`, `/live/tree/`, `/mtree/`, or another supported page.
+4. Try logging out and logging in again.
+5. Clear the page cache.
+6. Even if you are not authorized, public data should still load. If it does not, contact the administration.
 </details>
 
 <details>
-<summary><strong>Q: The [+] button doesn't work / entry form doesn't open</strong></summary>
+<summary><strong>Q: The + button does not appear</strong></summary>
 
-**A:** 
-1. Check that you have a stable internet connection.
-2. Make sure you're logged in to the extension.
-3. Try opening the portal directly: [yfinder.apsny.dev](https://yfinder.apsny.dev)
-4. Check if your browser is blocking popups.
+**A:**
+1. Hover over the sample row and wait for the short delay.
+2. On mobile, enable the quick-add button toggle.
+3. Check that the page is supported by the extension.
+4. Make sure the extension is updated to version 3.0.3 or higher.
 </details>
 
 <details>
-<summary><strong>Q: How to change data you've already added?</strong></summary>
+<summary><strong>Q: Login does not work or the session expired</strong></summary>
 
-**A:** 
-1. Log in to the [web portal](https://yfinder.apsny.dev).
-2. Go to the **My Samples** section.
-3. Find the sample you need and click the **pencil** icon ✏️.
-4. Make changes and save.
+**A:**
+1. Log out of the portal and extension.
+2. Log in again on the portal.
+3. Open the extension popup and check the status.
+4. If manual logout happened, automatic login may be paused until the next authorization.
 </details>
 
 <details>
-<summary><strong>Q: How to delete a sample?</strong></summary>
+<summary><strong>Q: Bulk Upload shows a JSON error</strong></summary>
 
-**A:** 
-1. Log in to the [web portal](https://yfinder.apsny.dev).
-2. Go to the **My Samples** section.
-3. Click the **trash** icon 🗑️ next to the sample.
-4. Provide a reason for deletion and submit the request.
-5. A moderator will review the request and make a decision.
+**A:**
+1. Check that JSON is an object, not an array.
+2. Use the `id:YF12345` key format.
+3. Check quotes and commas.
+4. Use **JSON Code Helper** to generate a template.
 </details>
 
 <details>
-<summary><strong>Q: How to upload multiple samples at once?</strong></summary>
+<summary><strong>Q: Screenshot is not saved</strong></summary>
 
-**A:** 
-1. Log in to the [web portal](https://yfinder.apsny.dev).
-2. Click the **"Bulk Upload"** button.
-3. Prepare data in JSON format (use the built-in **Code Helper** to generate a template).
-4. Paste the JSON and click **Upload**.
+**A:**
+1. Check that you are on a supported tree page.
+2. If the browser blocks clipboard access, the file should still download in the selected format.
+3. Try PNG instead of SVG/PDF.
+4. In Firefox, make sure the current extension version is installed.
 </details>
 
 <details>
-<summary><strong>Q: Can I use the extension on multiple devices?</strong></summary>
+<summary><strong>Q: Location map does not move on mobile</strong></summary>
 
-**A:** Yes! Your account syncs across all devices. Just log in with the same credentials on each device.
+**A:** Update the extension and portal to the current version. New versions fix scrolling and drag/zoom inside the map modal.
 </details>
 
 <details>
-<summary><strong>Q: The extension slows down my browser</strong></summary>
+<summary><strong>Q: The extension slows down a large branch</strong></summary>
 
-**A:** 
-1. Use **Lite Theme** instead of Premium — it's more lightweight.
-2. Close unused YFull tabs.
-3. Make sure you have the latest version of the extension installed.
+**A:**
+1. Use the **Lite** theme.
+2. Collapse large branches through **Collapse branches**.
+3. Use **Branches only**, **New samples only**, or **Ancient DNA only** filters.
+4. Close unnecessary YFull tabs.
 </details>
 
 <details>
-<summary><strong>Q: How to hide my name from the leaderboard?</strong></summary>
+<summary><strong>Q: How do I hide my name in the rating?</strong></summary>
 
-**A:** In profile settings on the web portal, enable the **"Hide in Leaderboard"** option. Your contributions will still be counted in statistics, but your name will display as "Anonymous".
+**A:** In your profile settings on the web portal, enable **Hide name in leaderboard**. Your contributions will still count, but the name will appear as Anonymous.
 </details>
 
 <details>
-<summary><strong>Q: How to contact the administration?</strong></summary>
+<summary><strong>Q: How do I delete my account and data?</strong></summary>
 
-**A:** 
-1. Via the **Messages** tab on the [web portal](https://yfinder.apsny.dev) — write a message directly in the interface.
-2. Via [Ajwla chat (EN)](https://t.me/+MQ-bXjVjROo1ZjY1).
-3. By email: AbkhazDNA@proton.me
+**A:** Contact the administration through the **Messages** tab on the portal or Telegram with a deletion request. We will process the request within 48 hours.
 </details>
-
-<details>
-<summary><strong>Q: How to delete my account and data?</strong></summary>
-
-**A:** Contact administration via [Ajwla chat (EN)](https://t.me/+MQ-bXjVjROo1ZjY1) or the **Messages** tab on the portal with a deletion request. We'll process the request within 48 hours.
-</details>
-
----
 
 ### Troubleshooting
 
 | Problem | Solution |
-|----------|----------|
-| Extension doesn't load | Check internet connection. Restart browser. |
-| Data doesn't save | Make sure you're logged in. Check that required fields (Surname, Tribe) are filled. |
-| Flags don't display | Update extension to latest version (2.2.0+). |
-| "Session expired" error | Log out and log back in. Extension and portal sessions sync automatically. |
+|----------|---------|
+| Extension does not load | Check your internet connection. Restart the browser. |
+| Data is not saved | Make sure you are authorized. Check required fields (Surname, Tribe). |
+| Flags are not displayed | Update the extension to the latest version. |
+| “Session expired” error | Log out and log in again. |
 | Mobile version works incorrectly | Enable **Desktop Mode** in browser settings. |
-| Screenshot doesn't save | Make sure you're on a tree page (/tree/, /mtree/). Check if the browser is blocking clipboard access. |
-| Form draft was lost | Drafts are auto-saved. Try refreshing the page — data should be restored. |
+| Form draft was lost | Drafts are saved automatically. Refresh the page — data will be restored. |
 
 ---
 
-## 🆘 Support and Feedback
+## 🆘 Support
 
-If you encounter a problem not described in this guide:
+If the issue is not described above, contact the administration:
 
-- 💬 **Portal Chat:** **Messages** tab on [yfinder.apsny.dev](https://yfinder.apsny.dev)
-- 📧 **Email:** AbkhazDNA@proton.me
-- 💬 **Telegram:** [Ajwla chat (EN)](https://t.me/+MQ-bXjVjROo1ZjY1)
+- 💬 **Portal chat:** **Messages** tab on [yfinder.apsny.dev](https://yfinder.apsny.dev)
+- 💬 **Telegram:** [Ajwla chat](https://t.me/+ro2BB7eqc6o1NjM9)
+- 📧 **Email:** `AbkhazDNA@proton.me`
 
 ---
 
-## 💡 Important Note
+## 💡 Important note
 
-The database works on a **Wiki** principle — it's a collective project. The extension does not change YFull's original scientific data, but only overlays an additional layer of genealogical information. We encourage every researcher to contribute for the common good.
+The Ajwla database works like a **Wiki** — it is a collective project. The extension does not change original YFull scientific data; it only overlays additional genealogical information. The more researchers add verified data, the more useful the tree becomes for the whole community.
 
 **Your contribution helps preserve the history and culture of peoples for future generations!** 🌍
 
 ---
 
-**Maintained by the [Abkhaz DNA Project](https://t.me/abkhazdna).**  
-**Version:** 2.2.1 | **Updated:** 04.03.2026
+**Developed and maintained by [Abkhaz DNA Project](https://t.me/abkhazdna).**  
+**Guide version:** 3.0.3 | **Updated:** May 13, 2026
