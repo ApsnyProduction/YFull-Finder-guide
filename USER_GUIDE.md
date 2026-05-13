@@ -57,8 +57,6 @@
 3. Найдите **YFull Finder** или перейдите по [прямой ссылке](https://addons.mozilla.org/en-US/firefox/addon/yfull-finder-ajwla/).
 4. Нажмите **«Добавить в Firefox»**.
 
-> [!TIP]
-> Включите **«Режим для ПК»** (Desktop Site) на сайте YFull.com для удобной работы с полным деревом.
 
 #### Альтернативный способ: Kiwi Browser
 
@@ -82,7 +80,7 @@
 > [!TIP]
 > На iPad включите **Desktop Site** в настройках Orion для полноценного отображения дерева YFull.
 
-> **Скриншот:** настройки Orion Browser с разделом Extensions.
+https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 ---
 
