@@ -34,7 +34,7 @@ The extension supports all major Chromium-based browsers and Mozilla Firefox.
 3. Confirm installation in the popup window.
 4. Pin the extension icon in the browser toolbar through the extensions menu.
 
-<img width="1682" height="952" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
+<img width="900" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
 
 #### Mozilla Firefox
 
@@ -43,7 +43,7 @@ The extension supports all major Chromium-based browsers and Mozilla Firefox.
 3. Confirm the installation permission.
 4. Pin the extension icon to the browser toolbar.
 
-<img width="1331" height="904" alt="Firefox Add-ons" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
+<img width="900" alt="Firefox Add-ons" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
 
 ### 📱 2. Android (Mobile version)
 
@@ -63,7 +63,7 @@ The extension supports all major Chromium-based browsers and Mozilla Firefox.
 2. In Kiwi Browser, open the [Chrome Web Store](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi).
 3. Find **YFull Finder** and click install.
 
-<img width="1215" height="2100" alt="Screenshot_20260513-225230_Firefox" src="https://github.com/user-attachments/assets/1cad6597-dd7e-41d0-b54b-c2791f353e42" />
+<img width="380" alt="Screenshot_20260513-225230_Firefox" src="https://github.com/user-attachments/assets/1cad6597-dd7e-41d0-b54b-c2791f353e42" />
 
 
 ### 🍎 3. iOS (iPhone & iPad)
@@ -79,7 +79,7 @@ The extension supports all major Chromium-based browsers and Mozilla Firefox.
 > [!TIP]
 > On iPad, enable **Desktop Site** in Orion settings for full YFull tree display.
 
-https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
+[Video: Orion Browser settings](https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264)
 
 ---
 
@@ -91,19 +91,19 @@ To keep the icon at hand:
 
 1. Click the **Puzzle** 🧩 icon in the upper-right corner of the browser.
 
-<img width="209" height="41" alt="Puzzle icon" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
+<img width="209" alt="Puzzle icon" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
 
 2. Find **YFull Finder** and click **Pin**.
 
-<img width="314" height="41" alt="Pin extension" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
+<img width="314" alt="Pin extension" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
 
 3. Click the extension icon.
 
-<img width="314" height="64" alt="Extension icon" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
+<img width="314" alt="Extension icon" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
 
 4. In the opened window, go to the **Register** or **Login** tab.
 
-<img width="335" height="408" alt="Login popup" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
+<img width="335" alt="Login popup" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
 
 5. Enter your email, username, and password.
 
@@ -120,7 +120,7 @@ In the extension popup (click the browser icon), you can customize the interface
 
 **Lite** keeps the tree compact. **Premium** adds larger elements, glass styling, and animations.
 
-<img width="326" height="66" alt="Theme switcher" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
+<img width="326" alt="Theme switcher" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
 
 ---
 
@@ -137,7 +137,7 @@ On YFull pages, the extension recognizes sample IDs and adds visual chips with A
 
 **Supported pages:** `/tree/`, `/live/tree/`, `/mtree/`, `/live/mtree/`, `/sc/tree/`, `/chart/tree/`, `/sc/mtree/`, `/chart/mtree/`.
 
-<img width="1244" height="444" alt="Tree enrichment" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
+<img width="900" alt="Tree enrichment" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
 
 #### Action chips: source, G25, and Location
 
@@ -147,7 +147,7 @@ If a sample has additional fields, quick actions can appear next to it:
 - **🧬 G25** — copies G25 coordinates.
 - **📍 Location** — opens coordinates in OpenStreetMap.
 
-<img width="725" height="66" alt="image" src="https://github.com/user-attachments/assets/8002cc02-bc0e-4905-903c-632f95be0a81" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/8002cc02-bc0e-4905-903c-632f95be0a81" />
 
 
 ### 2. Bottom tree toolbar
@@ -240,7 +240,7 @@ The **Analytics** button opens a side panel with analytics for the current tree 
 - **🧬 Diversity** — SNP diversity estimate using Faith's Phylogenetic Diversity.
 - **📋 DB Insights** — Ajwla data summary: surnames, ethnicities, villages, regions.
 
-<img width="397" height="198" alt="image" src="https://github.com/user-attachments/assets/46cba69f-083d-4b7a-8bfb-53f14d4445e6" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/46cba69f-083d-4b7a-8bfb-53f14d4445e6" />
 
 
 #### Distribution
@@ -249,28 +249,28 @@ The **Analytics** button opens a side panel with analytics for the current tree 
 - **Sample set:** All samples, Modern samples, Paleo DNA samples.
 - Charts: donut, bars, and table.
 
-<img width="397" height="674" alt="image" src="https://github.com/user-attachments/assets/7ead4e3e-b9d0-490c-8200-b900a70d44d6" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/7ead4e3e-b9d0-490c-8200-b900a70d44d6" />
 
 
 #### Languages
 
 Modes: **Counts**, **Diversity**, **Language Distribution**, **Language Families**, **Language Diversity**, **Language Family Diversity**.
 
-<img width="397" height="684" alt="image" src="https://github.com/user-attachments/assets/757d7f5b-9563-45a3-8607-08c0a971dba4" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/757d7f5b-9563-45a3-8607-08c0a971dba4" />
 
 
 #### Diversity
 
 The table contains: **Diversity share**, **PD years**, **Branches**, **Samples**. The **What is this?** button expands a methodology explanation. **Article** and **Docs** links are also available.
 
-<img width="397" height="656" alt="image" src="https://github.com/user-attachments/assets/f0857a1b-7cea-4023-a351-25c76961fb54" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/f0857a1b-7cea-4023-a351-25c76961fb54" />
 
 
 #### DB Insights
 
 Aggregates Ajwla fields from the current tree: **Surname**, **Ethnicity / Tribe**, **Village**, **Region**.
 
-<img width="397" height="720" alt="image" src="https://github.com/user-attachments/assets/8221354b-8906-43e6-99ec-07f33a42b8ad" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/8221354b-8906-43e6-99ec-07f33a42b8ad" />
 
 
 ### 6. Mobile features
@@ -279,7 +279,7 @@ On touch devices, tooltips work through **tap-to-toggle**: tap a chip to open in
 
 Mobile tree pages have a quick-add button toggle. It shows or hides **+** buttons next to samples.
 
-<img width="919" height="1280" alt="image" src="https://github.com/user-attachments/assets/2486343f-58f0-455c-a525-ad1af621f677" />
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/2486343f-58f0-455c-a525-ad1af621f677" />
 
 
 ### 7. Smart screenshots 📸
@@ -319,7 +319,7 @@ In **Selection** mode, after selecting an area, the annotation panel opens.
 
 For text, an advanced menu is available: font selector, size, **B/I/U/S**, text/background/outline color, opacity, text block dragging, undo with Ctrl+Z or Cmd+Z.
 
-<img width="1840" height="913" alt="Selection overlay" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
+<img width="900" alt="Selection overlay" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
 
 > **Screenshot:** annotation toolbar with Arrow, Line, Rectangle, Text, Color, Undo.
 > **Screenshot:** text settings menu with color, outline, and opacity.
@@ -336,7 +336,7 @@ If a sample has no data yet, a gray **+** button appears next to it.
 > [!TIP]
 > The **[+]** button appears when hovering over a sample row (with a 350 ms delay to prevent flicker). On mobile devices, the button can be enabled/disabled with the toggle.
 
-<img width="625" height="261" alt="Plus button" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
+<img width="625" alt="Plus button" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
 
 #### Form fields
 
@@ -353,7 +353,7 @@ If a sample has no data yet, a gray **+** button appears next to it.
 The **Add details** button opens a visual field catalog with search (Search fields...), categories (Required, Location, Patronomy, Additional), selected-field counter, and Cancel/Apply buttons. Required fields are pinned and cannot be disabled.
 
 
-<img width="895" height="780" alt="image" src="https://github.com/user-attachments/assets/a29f6c07-176e-4eb3-be1e-b8f255eaa845" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/a29f6c07-176e-4eb3-be1e-b8f255eaa845" />
 
 ### 10. Transliteration (Cyrillic → Latin) 🔤
 
@@ -362,7 +362,7 @@ When Cyrillic text is entered, a warning and **Transliterate** button appear. It
 > [!TIP]
 > For the convenience of the international community, Latin letters are recommended.
 
-<img width="648" height="324" alt="image" src="https://github.com/user-attachments/assets/6914402e-1208-4336-8ef5-36cb311e792a" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/6914402e-1208-4336-8ef5-36cb311e792a" />
 
 
 ### 11. Location and map 🗺
@@ -376,7 +376,7 @@ The **Location** field stores coordinates of the ancestral place. Coordinates ca
 
 Different coordinate formats are normalized, including decimal coordinates and Google Maps links.
 
-<img width="764" height="575" alt="image" src="https://github.com/user-attachments/assets/3536af8d-04a1-4456-a080-bd09b560be13" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3536af8d-04a1-4456-a080-bd09b560be13" />
 
 
 ### 12. G25 Coordinates 🧬
@@ -391,7 +391,7 @@ Enable **Anonymous Editing** or **Make Anonymous** in the form to hide the autho
 > [!NOTE]
 > Anonymity hides only the author name. Genealogical data remains public. Guest contributions are saved through Shadow Profile. After registration, previous guest contributions can be linked to the account.
 
-<img width="353" height="75" alt="image" src="https://github.com/user-attachments/assets/6efb6866-f72f-44ae-a6e6-58d5d5429d98" />
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/6efb6866-f72f-44ae-a6e6-58d5d5429d98" />
 
 
 ### 14. Editing an existing sample ✏️
@@ -403,7 +403,7 @@ Enable **Anonymous Editing** or **Make Anonymous** in the form to hide the autho
 
 Changes go to moderation. The request shows a diff: removed and added values.
 
-<img width="568" height="490" alt="image" src="https://github.com/user-attachments/assets/73df0b44-ba99-464a-84aa-fd08cb9b200b" />
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/73df0b44-ba99-464a-84aa-fd08cb9b200b" />
 
 
 ### 15. Sample deletion request 🗑
@@ -416,7 +416,7 @@ Changes go to moderation. The request shows a diff: removed and added values.
 
 A moderator will review the request and approve or reject the deletion.
 
-<img width="501" height="516" alt="Delete request" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
+<img width="420" alt="Delete request" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
 
 ### 16. Personal account (Web Portal) 🌐
 
@@ -430,7 +430,7 @@ The portal is available at [yfinder.apsny.dev](https://yfinder.apsny.dev).
 - `/profile/messages` — contact the administrator.
 - `/profile/rating` — contributor rating.
 
-<img width="1260" height="687" alt="image" src="https://github.com/user-attachments/assets/cb0b053e-b0ce-45dc-8790-362b4fd1932c" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/cb0b053e-b0ce-45dc-8790-362b4fd1932c" />
 
 
 #### Header and StatsBar
@@ -443,44 +443,44 @@ The portal is available at [yfinder.apsny.dev](https://yfinder.apsny.dev).
 
 Avatar, ID, Y-DNA and mtDNA contribution stats. The avatar can be uploaded, cropped, replaced, or deleted. The image is automatically compressed (max. 2 MB, 1024px) and converted to WebP.
 
-<img width="395" height="480" alt="Avatar crop" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
+<img width="395" alt="Avatar crop" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
 
 #### My Samples
 
 Search by YFull ID, All/YDNA/MTDNA filters, Refresh button, cards with ID, DNA type, surname, ethnicity, village, region, and date. Edit, Delete, pagination with Prev/Next and Go.
 
-<img width="1250" height="825" alt="My Samples" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
+<img width="900" alt="My Samples" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
 
 #### My Requests
 
 Filters: All, Pending, Approved, Rejected. Request types: Bulk Upload Request, Edit Request, Deletion Request. Each shows status, date, DNA type, user comment, admin response, and diff of changed fields.
 
-<img width="1250" height="609" alt="My Requests" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
+<img width="900" alt="My Requests" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
 
 #### Messages 💬
 
 Message the administrator directly on the portal. Type a message..., 500-character limit, Enter sends, Shift+Enter adds a new line. Links in messages become clickable. Admin replies appear in the same chat.
 
-<img width="1278" height="612" alt="Messages" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
+<img width="900" alt="Messages" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
 
 #### Rating 🏆
 
 Contributor rating: Contributors / Samples / Avg. Contrib. stats, period filters (Last 7 days / Last 30 days / All time) and DNA type filters (Combined / Y-DNA / mt-DNA). Podium, Top Contributors table, your position and gap to the next place, position trends, activity sparklines. **Hide name in leaderboard** option.
 
-<img width="903" height="814" alt="Rating" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
+<img width="700" alt="Rating" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
 
 #### Services 🛠
 
 The floating **Services** button opens the **Genealogy Projects** panel with **Haplogroup Data Explorer** (opens `https://snp.valalav.ru/`). Buttons: Open, Details, Collapse.
 
-<img width="494" height="302" alt="image" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
 
 #### Extension Prompt
 
 If the portal does not detect the extension, an installation prompt appears with a button for your browser: Install for Chrome, Install for Firefox, Installation Guide on mobile, Install Extension for others.
 
-<img width="289" height="154" alt="image" src="https://github.com/user-attachments/assets/c6c8934e-02cf-48d8-a186-727a6e7a50e6" />
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/c6c8934e-02cf-48d8-a186-727a6e7a50e6" />
 
 
 ### 17. Bulk Upload 📦
@@ -506,11 +506,11 @@ Add multiple samples through JSON.
 
 **JSON Code Helper** 🛠 — a visual helper for selecting fields and generating a template. It lets you choose fields, generate a template, see the number of samples, copy JSON, or insert it directly into the field.
 
-<img width="881" height="690" alt="JSON helper" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
+<img width="700" alt="JSON helper" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
 
 **Processing:** a moderation request is created (Bulk upload request submitted for review). If duplicates are found, you can select them and submit changes as requests through **Request Changes for Selected**, or close with **Done (Skip Updates)**.
 
-<img width="881" height="217" alt="image" src="https://github.com/user-attachments/assets/842e36b5-853a-4f1b-a841-ce0b44d2ea54" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/842e36b5-853a-4f1b-a841-ce0b44d2ea54" />
 
 
 
