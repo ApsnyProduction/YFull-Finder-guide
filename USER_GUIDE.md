@@ -34,7 +34,7 @@
 3. Подтвердите установку во всплывающем окне.
 4. Закрепите иконку расширения в панели браузера через меню расширений.
 
-<img width="1682" height="952" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
+<img width="900" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/f7937b48-f25d-4367-9957-e653a70812db" />
 
 #### Mozilla Firefox
 
@@ -43,7 +43,7 @@
 3. Подтвердите разрешение на установку.
 4. Закрепите иконку расширения на панели браузера.
 
-<img width="1331" height="904" alt="Firefox Add-ons" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
+<img width="900" alt="Firefox Add-ons" src="https://github.com/user-attachments/assets/d4e06057-c3a8-4645-9121-854fe45089f6" />
 
 ### 📱 2. Для Android (Мобильная версия)
 
@@ -64,7 +64,7 @@
 2. В Kiwi Browser откройте [Chrome Web Store](https://chromewebstore.google.com/detail/yfull-finder-ajwla/nbilonjoanaocbjbhepbbcdbgddlpepi).
 3. Найдите **YFull Finder** и нажмите «Установить».
 
-<img width="1215" height="2100" alt="Screenshot_20260513-225230_Firefox" src="https://github.com/user-attachments/assets/1cad6597-dd7e-41d0-b54b-c2791f353e42" />
+<img width="380" alt="Screenshot_20260513-225230_Firefox" src="https://github.com/user-attachments/assets/1cad6597-dd7e-41d0-b54b-c2791f353e42" />
 
 
 ### 🍎 3. Для iOS (iPhone & iPad)
@@ -80,7 +80,7 @@
 > [!TIP]
 > На iPad включите **Desktop Site** в настройках Orion для полноценного отображения дерева YFull.
 
-https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
+<img width="380" alt="Настройки Orion Browser" src="https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264" />
 
 ---
 
@@ -92,19 +92,19 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 1. Нажмите на значок **«Пазл»** 🧩 в правом верхнем углу браузера.
 
-<img width="209" height="41" alt="Puzzle icon" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
+<img width="209" alt="Puzzle icon" src="https://github.com/user-attachments/assets/63196c27-bc63-444f-9960-11e5ed26629c" />
 
 2. Найдите **YFull Finder** и нажмите кнопку **«Закрепить»** (Pin).
 
-<img width="314" height="41" alt="Pin extension" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
+<img width="314" alt="Pin extension" src="https://github.com/user-attachments/assets/bea570e4-d845-4273-b99d-3222bd524b8f" />
 
 3. Нажмите на иконку расширения.
 
-<img width="314" height="64" alt="Extension icon" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
+<img width="314" alt="Extension icon" src="https://github.com/user-attachments/assets/42b30433-dc36-4985-8677-ebb5efa81922" />
 
 4. В открывшемся окне перейдите на вкладку **Register** (Регистрация) или **Login** (Вход).
 
-<img width="335" height="408" alt="Login popup" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
+<img width="335" alt="Login popup" src="https://github.com/user-attachments/assets/7e9e6071-e363-4954-8f76-9b575d1280d0" />
 
 5. Введите email, имя пользователя и пароль.
 
@@ -121,7 +121,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 **Lite** сохраняет компактность дерева. **Premium** добавляет более крупные элементы, стеклянный стиль и анимации.
 
-<img width="326" height="66" alt="Theme switcher" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
+<img width="326" alt="Theme switcher" src="https://github.com/user-attachments/assets/9e76f19f-d32d-4e26-aa52-737d6e06dcaf" />
 
 ---
 
@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 **Поддерживаемые страницы:** `/tree/`, `/live/tree/`, `/mtree/`, `/live/mtree/`, `/sc/tree/`, `/chart/tree/`, `/sc/mtree/`, `/chart/mtree/`.
 
-<img width="1244" height="444" alt="Tree enrichment" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
+<img width="900" alt="Tree enrichment" src="https://github.com/user-attachments/assets/a7fba7a2-2ba1-4984-a68f-cc29f6d4f48a" />
 
 #### Чипы действий: источник, G25 и Location
 
@@ -148,7 +148,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 - **🧬 G25** — копирует G25 координаты.
 - **📍 Location** — открывает координаты в OpenStreetMap.
 
-<img width="725" height="66" alt="изображение" src="https://github.com/user-attachments/assets/8002cc02-bc0e-4905-903c-632f95be0a81" />
+<img width="700" alt="изображение" src="https://github.com/user-attachments/assets/8002cc02-bc0e-4905-903c-632f95be0a81" />
 
 
 ### 2. Нижняя панель дерева
@@ -241,7 +241,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 - **🧬 Diversity** — оценка SNP-разнообразия через Faith's Phylogenetic Diversity.
 - **📋 DB Insights** — сводка по данным Ajwla: фамилии, этносы, села, регионы.
 
-<img width="397" height="198" alt="изображение" src="https://github.com/user-attachments/assets/46cba69f-083d-4b7a-8bfb-53f14d4445e6" />
+<img width="360" alt="изображение" src="https://github.com/user-attachments/assets/46cba69f-083d-4b7a-8bfb-53f14d4445e6" />
 
 
 #### Distribution
@@ -250,28 +250,28 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 - **Sample set:** All samples, Modern samples, Paleo DNA samples.
 - Графики: donut, bars и таблица.
 
-<img width="397" height="674" alt="изображение" src="https://github.com/user-attachments/assets/7ead4e3e-b9d0-490c-8200-b900a70d44d6" />
+<img width="360" alt="изображение" src="https://github.com/user-attachments/assets/7ead4e3e-b9d0-490c-8200-b900a70d44d6" />
 
 
 #### Languages
 
 Режимы: **Counts**, **Diversity**, **Language Distribution**, **Language Families**, **Language Diversity**, **Language Family Diversity**.
 
-<img width="397" height="684" alt="изображение" src="https://github.com/user-attachments/assets/757d7f5b-9563-45a3-8607-08c0a971dba4" />
+<img width="360" alt="изображение" src="https://github.com/user-attachments/assets/757d7f5b-9563-45a3-8607-08c0a971dba4" />
 
 
 #### Diversity
 
 Таблица с показателями: **Diversity share**, **PD years**, **Branches**, **Samples**. Кнопка **What is this?** раскрывает пояснение методологии. Также доступны ссылки **Article** и **Docs**.
 
-<img width="397" height="656" alt="изображение" src="https://github.com/user-attachments/assets/f0857a1b-7cea-4023-a351-25c76961fb54" />
+<img width="360" alt="изображение" src="https://github.com/user-attachments/assets/f0857a1b-7cea-4023-a351-25c76961fb54" />
 
 
 #### DB Insights
 
 Агрегирует поля Ajwla из текущего дерева: **Surname**, **Ethnicity / Tribe**, **Village**, **Region**.
 
-<img width="397" height="720" alt="изображение" src="https://github.com/user-attachments/assets/8221354b-8906-43e6-99ec-07f33a42b8ad" />
+<img width="360" alt="изображение" src="https://github.com/user-attachments/assets/8221354b-8906-43e6-99ec-07f33a42b8ad" />
 
 
 ### 6. Мобильные возможности
@@ -280,7 +280,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 На мобильных страницах дерева есть переключатель быстрых кнопок добавления. Он включает или скрывает кнопки **+** рядом с образцами.
 
-<img width="919" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/2486343f-58f0-455c-a525-ad1af621f677" />
+<img width="420" alt="изображение" src="https://github.com/user-attachments/assets/2486343f-58f0-455c-a525-ad1af621f677" />
 
 
 ### 7. Умные скриншоты 📸
@@ -320,7 +320,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 Для текста доступно расширенное меню: выбор шрифта, размер, **B/I/U/S**, цвет текста/фона/outline, opacity, перетаскивание текстового блока, отмена через Ctrl+Z или Cmd+Z.
 
-<img width="1840" height="913" alt="Selection overlay" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
+<img width="900" alt="Selection overlay" src="https://github.com/user-attachments/assets/874b4993-2864-417d-9022-fd879c098c4b" />
 
 > **Скриншот:** панель аннотаций с Arrow, Line, Rectangle, Text, Color, Undo.
 > **Скриншот:** меню настройки текста с цветом, outline и opacity.
@@ -337,7 +337,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 > [!TIP]
 > Кнопка **[+]** появляется при наведении мыши на строку с образцом (с задержкой 350 мс для предотвращения мерцания). На мобильных устройствах кнопку можно включить/отключить через переключатель.
 
-<img width="625" height="261" alt="Plus button" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
+<img width="625" alt="Plus button" src="https://github.com/user-attachments/assets/a50ee215-8aa4-4c09-86c3-19de61fc7cd7" />
 
 #### Поля формы
 
@@ -354,7 +354,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 Кнопка **Add details** открывает визуальный каталог полей с поиском (Search fields...), категориями (Required, Location, Patronomy, Additional), счетчиком выбранных полей и кнопками Cancel/Apply. Обязательные поля закреплены и не могут быть отключены.
 
 
-<img width="895" height="780" alt="изображение" src="https://github.com/user-attachments/assets/a29f6c07-176e-4eb3-be1e-b8f255eaa845" />
+<img width="700" alt="изображение" src="https://github.com/user-attachments/assets/a29f6c07-176e-4eb3-be1e-b8f255eaa845" />
 
 ### 10. Транслитерация (Кириллица → Латиница) 🔤
 
@@ -363,7 +363,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 > [!TIP]
 > Для удобства международного сообщества рекомендуется вводить данные латинскими буквами.
 
-<img width="648" height="324" alt="изображение" src="https://github.com/user-attachments/assets/6914402e-1208-4336-8ef5-36cb311e792a" />
+<img width="640" alt="изображение" src="https://github.com/user-attachments/assets/6914402e-1208-4336-8ef5-36cb311e792a" />
 
 
 ### 11. Location и карта 🗺
@@ -377,7 +377,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 Поддерживается нормализация разных форматов координат, включая десятичные координаты и ссылки Google Maps.
 
-<img width="764" height="575" alt="изображение" src="https://github.com/user-attachments/assets/3536af8d-04a1-4456-a080-bd09b560be13" />
+<img width="700" alt="изображение" src="https://github.com/user-attachments/assets/3536af8d-04a1-4456-a080-bd09b560be13" />
 
 
 ### 12. G25 Coordinates 🧬
@@ -392,7 +392,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 > [!NOTE]
 > Анонимность скрывает только имя автора. Генеалогические данные остаются публичными. Гостевые вклады сохраняются через Shadow Profile. После регистрации прошлые гостевые вклады могут быть связаны с аккаунтом.
 
-<img width="353" height="75" alt="изображение" src="https://github.com/user-attachments/assets/6efb6866-f72f-44ae-a6e6-58d5d5429d98" />
+<img width="353" alt="изображение" src="https://github.com/user-attachments/assets/6efb6866-f72f-44ae-a6e6-58d5d5429d98" />
 
 
 ### 14. Редактирование существующего образца ✏️
@@ -404,7 +404,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 Изменения идут на модерацию. В запросе отображается diff: удалённые и добавленные значения.
 
-<img width="568" height="490" alt="изображение" src="https://github.com/user-attachments/assets/73df0b44-ba99-464a-84aa-fd08cb9b200b" />
+<img width="520" alt="изображение" src="https://github.com/user-attachments/assets/73df0b44-ba99-464a-84aa-fd08cb9b200b" />
 
 
 ### 15. Запрос на удаление образца 🗑
@@ -417,7 +417,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 Модератор рассмотрит запрос и подтвердит или отклонит удаление.
 
-<img width="501" height="516" alt="Delete request" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
+<img width="420" alt="Delete request" src="https://github.com/user-attachments/assets/08ca4fb9-0363-408e-8e25-66316168aa87" />
 
 ### 16. Личный кабинет (Web Portal) 🌐
 
@@ -431,7 +431,7 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 - `/profile/messages` — связь с администратором.
 - `/profile/rating` — рейтинг участников.
 
-<img width="1260" height="687" alt="изображение" src="https://github.com/user-attachments/assets/cb0b053e-b0ce-45dc-8790-362b4fd1932c" />
+<img width="900" alt="изображение" src="https://github.com/user-attachments/assets/cb0b053e-b0ce-45dc-8790-362b4fd1932c" />
 
 
 #### Header и StatsBar
@@ -444,44 +444,44 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 Аватар, ID, статистика добавлений Y-DNA и mtDNA. Аватар можно загрузить, обрезать, заменить или удалить. Изображение автоматически сжимается (макс. 2 МБ, 1024px) и конвертируется в WebP.
 
-<img width="395" height="480" alt="Avatar crop" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
+<img width="395" alt="Avatar crop" src="https://github.com/user-attachments/assets/9e499bfe-a7c2-4f0c-8bd1-7fba606d1004" />
 
 #### My Samples
 
 Поиск по YFull ID, фильтры All/YDNA/MTDNA, кнопка Refresh, карточки с ID, типом ДНК, фамилией, этносом, селом, регионом и датой. Edit, Delete, пагинация с Prev/Next и Go.
 
-<img width="1250" height="825" alt="My Samples" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
+<img width="900" alt="My Samples" src="https://github.com/user-attachments/assets/0fbbb80f-ba34-4dde-9d6f-41456a6702d5" />
 
 #### My Requests
 
 Фильтры: All, Pending, Approved, Rejected. Типы запросов: Bulk Upload Request, Edit Request, Deletion Request. Для каждого — статус, дата, тип ДНК, комментарий пользователя, ответ администратора и diff изменённых полей.
 
-<img width="1250" height="609" alt="My Requests" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
+<img width="900" alt="My Requests" src="https://github.com/user-attachments/assets/809e7c75-9ed3-4ccd-b01f-a745d1934e5f" />
 
 #### Messages 💬
 
 Напишите администратору прямо на портале. Поле Type a message..., лимит 500 символов, Enter — отправка, Shift+Enter — новая строка. Ссылки в сообщениях становятся кликабельными. Ответы администратора появляются в том же чате.
 
-<img width="1278" height="612" alt="Messages" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
+<img width="900" alt="Messages" src="https://github.com/user-attachments/assets/f4a6fb27-dfe0-4f78-b2d7-99429e9d4f8a" />
 
 #### Rating 🏆
 
 Рейтинг участников: статистика Contributors / Samples / Avg. Contrib., фильтры периода (Last 7 days / Last 30 days / All time) и типа ДНК (Combined / Y-DNA / mt-DNA). Podium, таблица Top Contributors, ваша позиция и отставание до следующего места, тренды позиций, activity sparklines. Опция **Hide name in leaderboard**.
 
-<img width="903" height="814" alt="Rating" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
+<img width="700" alt="Rating" src="https://github.com/user-attachments/assets/92bd4e73-bcb8-48d4-8293-5c3c4e162605" />
 
 #### Services 🛠
 
 Плавающая кнопка **Services** открывает панель **Genealogy Projects** с сервисом **Haplogroup Data Explorer** (ведёт на `https://snp.valalav.ru/`). Кнопки: Open, Details, Collapse.
 
-<img width="494" height="302" alt="изображение" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
+<img width="460" alt="изображение" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
 
 #### Extension Prompt
 
 Если портал не обнаружил расширение, появляется подсказка установки с кнопкой для вашего браузера: Install for Chrome, Install for Firefox, Installation Guide на мобильных, Install Extension для прочих.
 
-<img width="289" height="154" alt="изображение" src="https://github.com/user-attachments/assets/c6c8934e-02cf-48d8-a186-727a6e7a50e6" />
+<img width="289" alt="изображение" src="https://github.com/user-attachments/assets/c6c8934e-02cf-48d8-a186-727a6e7a50e6" />
 
 
 ### 17. Массовая загрузка (Bulk Upload) 📦
@@ -507,11 +507,11 @@ https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264
 
 **JSON Code Helper** 🛠 — визуальный помощник для выбора полей и генерации шаблона. Позволяет выбрать поля, сгенерировать шаблон, увидеть количество образцов, скопировать JSON или вставить прямо в поле.
 
-<img width="881" height="690" alt="JSON helper" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
+<img width="700" alt="JSON helper" src="https://github.com/user-attachments/assets/c8e45e74-eb6a-4983-8a75-86cbfd9e9cf1" />
 
 **Обработка:** создаётся запрос на модерацию (Bulk upload request submitted for review). Если найдены дубликаты, можно выбрать их и отправить изменения как запросы через **Request Changes for Selected** или закрыть через **Done (Skip Updates)**.
 
-<img width="881" height="217" alt="изображение" src="https://github.com/user-attachments/assets/842e36b5-853a-4f1b-a841-ce0b44d2ea54" />
+<img width="700" alt="изображение" src="https://github.com/user-attachments/assets/842e36b5-853a-4f1b-a841-ce0b44d2ea54" />
 
 
 
