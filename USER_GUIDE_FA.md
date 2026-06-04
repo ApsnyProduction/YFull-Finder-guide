@@ -82,7 +82,7 @@
 > [!TIP]
 > در آیپد، **Desktop Site** را در تنظیمات Orion فعال کنید تا درخت YFull به درستی نمایش داده شود.
 
-> **اسکرین‌شات:** تنظیمات مرورگر Orion و بخش Extensions.
+[ویدیو: تنظیمات مرورگر Orion](https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264)
 
 ---
 
