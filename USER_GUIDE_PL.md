@@ -82,7 +82,7 @@ Rozszerzenie obsługuje wszystkie główne przeglądarki oparte na silniku Chrom
 > [!TIP]
 > Na iPadzie włącz opcję **Desktop Site** w ustawieniach Orion, aby wyświetlać pełne drzewo YFull.
 
-> **Zrzut ekranu:** Ustawienia przeglądarki Orion z sekcją rozszerzeń (Extensions).
+[Wideo: ustawienia przeglądarki Orion](https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264)
 
 ---
 
