@@ -82,7 +82,7 @@
 > [!TIP]
 > على iPad، قم بتفعيل **Desktop Site** في إعدادات Orion لعرض شجرة YFull بشكل كامل.
 
-> **لقطة شاشة:** إعدادات متصفح Orion مع قسم الإضافات (Extensions).
+[فيديو: إعدادات متصفح Orion](https://github.com/user-attachments/assets/b264e9e4-93f4-4450-849a-8d3d37830264)
 
 ---
 
