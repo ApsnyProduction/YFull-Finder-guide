@@ -472,7 +472,7 @@
 
 #### Services 🛠
 
-Плавающая кнопка **Services** открывает панель **Genealogy Projects** с сервисом **Haplogroup Data Explorer** (ведёт на `https://snp.valalav.ru/`). Кнопки: Open, Details, Collapse.
+Плавающая кнопка **Services** открывает панель **Genealogy Projects** с сервисом **Haplogroup Data Explorer** (ведёт на `https://snp.apsny.dev/`). Кнопки: Open, Details, Collapse.
 
 <img width="460" alt="изображение" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
