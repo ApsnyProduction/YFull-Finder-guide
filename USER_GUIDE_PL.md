@@ -473,7 +473,7 @@ Statystyki zaangażowania (Contributors / Samples / Avg. Contrib.), filtry czaso
 
 #### Usługi (Services) 🛠
 
-Pływający przycisk **Services** rozwija panel **Genealogy Projects**, gdzie umieszczony jest eksplorator **Haplogroup Data Explorer** (otwiera `https://snp.valalav.ru/`). Przyciski dostępne na panelu to: Open, Details, Collapse.
+Pływający przycisk **Services** rozwija panel **Genealogy Projects**, gdzie umieszczony jest eksplorator **Haplogroup Data Explorer** (otwiera `https://snp.apsny.dev/`). Przyciski dostępne na panelu to: Open, Details, Collapse.
 
 <img width="460" alt="изображение" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
