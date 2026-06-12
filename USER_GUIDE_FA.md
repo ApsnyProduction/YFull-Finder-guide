@@ -474,7 +474,7 @@
 
 #### خدمات (Services) 🛠
 
-دکمه شناور **Services** یک پنل تحت عنوان **Genealogy Projects** باز می‌کند که دارای سرویس **Haplogroup Data Explorer** (انتقال به سایت `https://snp.valalav.ru/`) است. این بخش دارای گزینه‌های Open, Details و Collapse می‌باشد.
+دکمه شناور **Services** یک پنل تحت عنوان **Genealogy Projects** باز می‌کند که دارای سرویس **Haplogroup Data Explorer** (انتقال به سایت `https://snp.apsny.dev/`) است. این بخش دارای گزینه‌های Open, Details و Collapse می‌باشد.
 
 <img width="460" alt="изображение" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
