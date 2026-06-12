@@ -475,7 +475,7 @@ Ranking de participantes: estadísticas Contributors / Samples / Avg. Contrib., 
 
 #### Services 🛠
 
-El botón flotante **Services** abre el panel **Genealogy Projects** con el servicio **Haplogroup Data Explorer** (abre `https://snp.valalav.ru/`). Botones: Open, Details, Collapse.
+El botón flotante **Services** abre el panel **Genealogy Projects** con el servicio **Haplogroup Data Explorer** (abre `https://snp.apsny.dev/`). Botones: Open, Details, Collapse.
 
 <img width="460" alt="imagen" src="https://github.com/user-attachments/assets/49d3a8af-6b5e-44ef-86b4-e2c9ef16b20c" />
 
